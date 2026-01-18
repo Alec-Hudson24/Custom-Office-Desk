@@ -26,18 +26,34 @@
 - Test assembly dry-fit multiple times before final glue-up—irreversible steps demand patience.
 - Custom builds let you optimize exactly for your needs (cable paths, monitor height, knee space), far better than mass-produced desks.
 
-## Gallery / Model Photos
-
-![3D Model Render - Top View]()
-*Early 3D render showing L-layout*
-
-
-
-
 ## Future Improvements / Ideas
 - Add built-in power strip mounting and USB hubs
 - Integrate under-desk drawer system or monitor arm mounts
 - Experiment with live-edge hardwood accents or epoxy river elements
 - Design modular add-ons (e.g., side shelves, keyboard tray)
+
+## Gallery / Model Photos
+
+![3D Model Render - Isometric View](https://github.com/Alec-Hudson24/Custom-Office-Desk/blob/main/Desk%20Model.PNG)
+*3D render showing L-layout*
+
+![3D Model Render - Top View](https://github.com/Alec-Hudson24/Custom-Office-Desk/blob/main/Top%20Down%20Model.PNG)
+*Early 3D render showing L-layout and dimensions from top*
+
+![Fabrication of the desk legs](https://github.com/Alec-Hudson24/Custom-Office-Desk/blob/main/building%20Legs.JPEG)
+*finished fabrication of the legs*
+
+![Staining Desk](https://github.com/Alec-Hudson24/Custom-Office-Desk/blob/main/Staining%20Countertop.JPEG)
+*Going through staining of the counter top (around 8 layers of stain was applied, due to having to sand off and re apply becuase of temperature)*
+
+![Professional Desk Picture](https://github.com/Alec-Hudson24/Custom-Office-Desk/blob/main/Finished%20Desk.JPG)
+*Finished L desk in office*
+
+![RGB Desk](https://github.com/Alec-Hudson24/Custom-Office-Desk/blob/main/Finished%20RGB%20Desk.JPG)
+*Showing how LED lights were a thought from the beginning of this project*
+
+![RGB 2](https://github.com/Alec-Hudson24/Custom-Office-Desk/blob/main/Finished%20RGB%20Version%202.JPG)
+*More custom colors of my desk*
+
 
 *This project was a self-directed build to level up my design, fabrication, and problem-solving skills.*
